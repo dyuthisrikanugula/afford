@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --port 3000"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.2.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^6.30.1"
+  }
+}
